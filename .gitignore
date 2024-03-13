@@ -1,0 +1,21 @@
+# Arquivos binários
+*.exe
+*.o
+*.out
+*.test
+
+# Arquivos de build
+/bin
+/pkg
+
+# Dependências
+/vendor
+/go.sum
+
+# Arquivos de configuração específicos do ambiente
+.idea/
+.vscode/
+*.iml
+
+# Arquivos de cache
+/.cache
